@@ -4,4 +4,4 @@ Using Vuforia and Unity, classifiers can be build to target Pokemon cards and ad
 
 Currently the Android app is only trained to recognize Diglett Pokemon card and Machop Pokemon card.
 
-![Alt text](Pokemon-Card-Image-Recognition/Pokemon Test.jpg?raw=true)
+![Alt text](https://github.com/diegofigueroa79/Pokemon-Card-Image-Recognition/blob/master/Pokemon%20Test.jpg?raw=true)
